@@ -1,5 +1,7 @@
 # My Advent of Code repositories
 
+Note: Some submodules are likely behind their main branch, so I recommend using links below.
+
 - 2023: [advent-of-zote-2023](https://github.com/KvGeijer/advent-of-zote-2023)
   - Written in my own programming language [Zote](https://github.com/KvGeijer/zote).
 - 2022: [Advent-of-Julia](https://github.com/KvGeijer/Advent-of-Julia)

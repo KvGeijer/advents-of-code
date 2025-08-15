@@ -5,8 +5,8 @@
 	path = old-advent-of-zotes
 	url = https://github.com/KvGeijer/old-advent-of-zotes.git
 [submodule "Advent-of-Variety"]
-	path = Advent-of-Variety
-	url = https://github.com/KvGeijer/Advent-of-Variety.git
+	path = advent-of-variety
+	url = https://github.com/KvGeijer/advent-of-variety.git
 [submodule "Advent-of-Julia"]
 	path = Advent-of-Julia
 	url = https://github.com/KvGeijer/Advent-of-Julia.git
@@ -16,3 +16,5 @@
 [submodule "Advent_of_Code_2020"]
 	path = Advent_of_Code_2020
 	url = https://github.com/KvGeijer/Advent_of_Code_2020.git
+[usbmodule "advent-of-variety"]
+	path = advent-of-variety
